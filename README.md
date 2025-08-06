@@ -1,78 +1,85 @@
-# 👋 Hi, I'm Sooraj C R
+# 👋 Hello, I'm Sooraj C R
 
-🎓 I'm currently pursuing B.Tech in Computer Science and Engineering at Federal Institute of Science and Technology (FISAT), Angamaly, Kerala. I'm passionate about web development, AI, and building meaningful tech solutions.
-
----
-
-## 🧠 Career Objective
-
-I'm aiming to join an organization where I can contribute as a collaborative team member and apply my growing skill set in real-world scenarios.
+🎓 A passionate Computer Science undergraduate at the Federal Institute of Science and Technology (FISAT), Angamaly, Kerala. I enjoy building efficient web applications, exploring AI technologies, and continuously learning to improve my technical and problem-solving skills.
 
 ---
 
-## 🧪 Projects
+## 🎯 Career Objective
+
+To be part of a dynamic organization where I can contribute as a collaborative team member, continuously enhance my skill set, and help develop impactful technology solutions.
+
+---
+
+## 💼 Projects
 
 ### 🏠 HostelHub (2025)
 **Tech Stack:** React, Supabase  
-A hostel management system with:
-- Leave tracking
-- Room allotment
-- Notifications
+A web-based hostel management system with features including:
+- Leave request and approval tracking
+- Room allotment management
+- Real-time notifications for administrators and students
 
 ---
 
-## 🧑‍💻 Internships
+## 🧑‍🔬 Internships
 
-- **Python and AI Tools** @ PACELAB, Kochi *(06/2024)*  
-  > Focused on Python and AI-based tools.
+- **Python and AI Tools** – *PACELAB, Kochi*  
+  *(June 2024)*  
+  Completed a focused one-week internship on Python fundamentals and introductory AI toolkits.
 
-- **ML and Web Development** @ FISAT *(06/2025)*  
-  > Learned Node.js and Express. Worked on sentiment analysis and classification algorithms.
+- **Machine Learning & Web Development** – *FISAT, Kerala*  
+  *(June 2025)*  
+  Gained hands-on experience in Node.js, Express.js, sentiment analysis, and implementing machine learning classifiers.
 
 ---
 
-## 📚 Education
+## 🎓 Education
 
 - **B.Tech in Computer Science & Engineering**  
-  *FISAT, Angamaly* (2022–2026)
+  *Federal Institute of Science and Technology (FISAT), Angamaly*  
+  *2022 – 2026 (Pursuing)*
 
-- **Higher Secondary (Bio-Math) - 92.4%**  
-  *Jawahar Navodaya Vidyalaya, Ernakulam* (2021–2022)
+- **Higher Secondary (Bio-Maths)**  
+  *Jawahar Navodaya Vidyalaya, Ernakulam* — *92.4%*  
+  *2021 – 2022*
 
-- **AISSE (10th) - 92.4%**  
-  *Jawahar Navodaya Vidyalaya, Ernakulam* (2019–2020)
-
----
-
-## 🛠 Technical Skills
-
-- Python, SQL, C Programming  
-- Git & GitHub  
-- HTML/CSS
+- **AISSE (10th Grade)**  
+  *Jawahar Navodaya Vidyalaya, Ernakulam* — *92.4%*  
+  *2019 – 2020*
 
 ---
 
-## 🏅 Achievements
+## 🛠️ Technical Skills
 
-- Completed **Python Data Structures and Algorithms** course (NPTEL, IIT Madras)
-- Finished **Azure AI Essentials** learning path
-- Secured 3rd position in **Arduino quiz** conducted by IEEE
+- Programming Languages: Python, C  
+- Web Technologies: HTML, CSS  
+- Databases: SQL  
+- Tools: Git & GitHub
 
 ---
 
-## 💡 Interests
+## 🏆 Achievements
+
+- Completed **Python Data Structures and Algorithms** (NPTEL, IIT Madras)
+- Finished **Azure AI Essentials** learning path (Microsoft)
+- Secured **3rd place** in an Arduino Quiz conducted by IEEE
+
+---
+
+## 🌱 Interests
 
 - 🏃 Running
-- 🧠 Learning about new technologies
+- 💻 Exploring emerging technologies
+- 📚 Self-learning through online platforms and courses
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Connect with Me
 
 - **Email:** [soorajcr03@gmail.com](mailto:soorajcr03@gmail.com)  
-- **GitHub:** [github.com/soorajcr03](https://github.com/)  
-- **LinkedIn:** [linkedin.com/in/soorajcr03](https://www.linkedin.com/)
+- **GitHub:** [github.com/soorajcr03](https://github.com/soorajcr03)  
+- **LinkedIn:** [linkedin.com/in/soorajcr03](https://www.linkedin.com/in/soorajcr03)
 
 ---
 
-🔗 *This portfolio is hosted using [GitHub Pages](https://pages.github.com/).*
+> 🔗 *This portfolio is hosted on [GitHub Pages](https://pages.github.com/).*
