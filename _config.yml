@@ -4,9 +4,9 @@ description: >-
   Portfolio of Sooraj C R — Computer Science student passionate about AI, Web Development, and problem-solving.
 baseurl: "" # leave this empty for user/organization site
 url: "https://yourusername.github.io" # replace with your actual GitHub Pages URL
-
+show_downloads: true
 # Theme
-theme: minima
+theme: jekyll-theme-minimal
 
 # Social Links
 github_username: soorajcr03
