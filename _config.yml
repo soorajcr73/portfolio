@@ -1,0 +1,29 @@
+title: Sooraj C R
+email: soorajcr03@gmail.com
+description: >- 
+  Portfolio of Sooraj C R — Computer Science student passionate about AI, Web Development, and problem-solving.
+baseurl: "" # leave this empty for user/organization site
+url: "https://yourusername.github.io" # replace with your actual GitHub Pages URL
+
+# Theme
+theme: minima
+
+# Social Links
+github_username: soorajcr03
+linkedin_username: soorajcr03
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Google Analytics (optional)
+# google_analytics: UA-XXXXXXXXX-X
+
+# Footer Links
+footer_links:
+  - label: GitHub
+    url: https://github.com/soorajcr03
+  - label: LinkedIn
+    url: https://www.linkedin.com/in/soorajcr03
