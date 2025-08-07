@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Sooraj C R
 
-🎓 A passionate Computer Science undergraduate at the Federal Institute of Science and Technology (FISAT), Angamaly, Kerala. I enjoy building efficient web applications, exploring AI technologies, and continuously learning to improve my technical and problem-solving skills.
+🎓 A passionate Computer Science undergraduate at the Federal Institute of Science and Technology (FISAT), Angamaly, Kerala. I enjoy exploring new technologies, and continuously learning to improve my technical and problem-solving skills.
 
 ---
 
@@ -58,10 +58,11 @@ A web-based hostel management system with features including:
 
 ---
 
-## 🏆 Achievements
-
-- Completed **Python Data Structures and Algorithms** (NPTEL, IIT Madras)
-- Finished **Azure AI Essentials** learning path (Microsoft)
+## 🏆Certificates and  Achievements
+- Cleared Microsoft Certified **Azure Fundamentals**
+(Microsoft Azure)
+- Completed NPTEL course **Python Data Structures and Algorithms** (NPTEL, IIT Madras)
+- Finished **Azure AI Essentials** learning path (Microsoft and Linkedin professional certificate)
 - Secured **3rd place** in an Arduino Quiz conducted by IEEE
 
 ---
