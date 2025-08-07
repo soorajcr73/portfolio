@@ -32,7 +32,11 @@ A web-based hostel management system with features including:
   Gained hands-on experience in Node.js, Express.js, sentiment analysis, and implementing machine learning classifiers.
 
 ---
-
+## Workshops 
+  *ASAP,Kerala*
+ -Attended online workshop on Chat Gpt and generative AI tools by ASAP ,KERALA.
+  *FISAT,Angamaly*
+  -Attended workshop in college about AWS cloud model,Infrastructure and demonstration of launch of an EC2 instance and use S3 for object storage. 
 ## 🎓 Education
 
 - **B.Tech in Computer Science & Engineering**  
