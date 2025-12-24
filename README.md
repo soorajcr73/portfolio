@@ -112,8 +112,8 @@ A full-stack hostel management platform featuring:
 ## 📫 Connect with Me
 
 - **Email:** soorajcr03@gmail.com  
-- **GitHub:** https://github.com/soorajcr03  
-- **LinkedIn:** https://www.linkedin.com/in/soorajcr03  
+- **GitHub:** (https://github.com/soorajcr73)
+- **LinkedIn:** (https://www.linkedin.com/in/sooraj-c-r-574322200/) 
 
 ---
 
